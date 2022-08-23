@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavisKiprotich
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python programming
+- 🌱 I’m currently learning ...HTML and CSS
 - 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...
 
