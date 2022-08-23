@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavisKiprotich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...HTML and CSS
-- 💞️ I’m looking to collaborate on ...Web Development
+- 👀 I’m interested in ...Wed Development and Design.
+- 🌱 I’m currently learning ...HTML and CSS.
+- 💞️ I’m looking to collaborate on ...JavaScript.
 - 📫 How to reach me ...
 
 <!---
