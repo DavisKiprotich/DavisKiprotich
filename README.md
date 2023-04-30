@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavisKiprotich
 - 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning React.j.
+- 🌱 I’m currently learning React.js.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...@werigan_non
 
