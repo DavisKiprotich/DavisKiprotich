@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavisKiprotich
 - 👀 I’m interested in Frontend development and Cloud Engineering.
 - 🌱 I’m currently learning AWS,DOCKER,Kubernetes and Continuous intergration.
-- I have knowledge in frontend web development with vanilla JS, GIT and orking on git CI/CD
+- I have knowledge in frontend web development with vanilla JS, GIT and Working on git CI/CD
 - 📫 How to reach me ...@werigan_non
 
 <!---
