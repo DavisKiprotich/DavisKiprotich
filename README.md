@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavisKiprotich
 - 👀 I’m interested in Frontend development, Networking and Cloud Engineering.
-- 🌱 I’m currently learning LINUX, AWS, DOCKER, Kubernetes and Continuous intergration/Deployment.
+- 🌱 I’m currently learning LINUX, AWS, Vmware vSphere ESXI  and Continuous intergration/Deployment.
 - I have knowledge in Frontend Web Development with React.JS, Tailwind CSS, jQuery.
 - 📫 How to reach me ...@werigan_non
 
