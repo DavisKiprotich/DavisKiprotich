@@ -1,55 +1,6 @@
-# GitHub Profile README
-
-Copy this content into the `README.md` of a repository named exactly `DavisKiprotich` if you want it to appear on your GitHub profile page.
-
----
-
-# Kiprotich Davis
-
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <h3 align="center">Kiprotich Davis</h3>
-      <p align="center">
-        Electrical &amp; Telecommunications Engineer<br />
-        Engineer who also builds software
-      </p>
-
-      <p>
-        <strong>Location</strong><br />
-        Nairobi, Kenya
-      </p>
-
-      <p>
-        <strong>Education</strong><br />
-        BEng, Electrical &amp; Telecommunications Engineering<br />
-        Moi University
-      </p>
-
-      <p>
-        <strong>Links</strong><br />
-        <a href="https://github.com/DavisKiprotich">GitHub</a><br />
-        <a href="https://linkedin.com/in/kiprotich-davis-652b49243/">LinkedIn</a><br />
-        <a href="https://x.com/werigan_non/">X / Twitter</a><br />
-        <a href="mailto:davyzkorir@gmail.com">davyzkorir@gmail.com</a>
-      </p>
-
-      <p>
-        <strong>Core Focus</strong>
-      </p>
-
-      <ul>
-        <li>Web development</li>
-        <li>Mobile development</li>
-        <li>Systems integration</li>
-        <li>Power &amp; IT (IoT)</li>
-      </ul>
-    </td>
-    <td width="70%" valign="top">
-
 ## About Me
 
-I am an Electrical and Telecommunications Engineer from Moi University who builds practical digital products and real-world technical solutions. My work brings together software delivery, engineering thinking, and field awareness across web platforms, mobile apps, connected systems, and Power &amp; IT environments.
+I am an Electrical and Telecommunications Engineer who builds practical digital products and real-world technical solutions. My work brings together software delivery, engineering thinking, and field awareness across web platforms, mobile apps, connected systems, and Power &amp; IT environments.
 
 ## What I Do Best
 
