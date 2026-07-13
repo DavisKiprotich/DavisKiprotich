@@ -32,15 +32,6 @@ My software work is backed by engineering context. I do not only think about scr
   <img src="https://img.shields.io/badge/Oracle%20Cloud-111827?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Cloud" />
 </p>
 
-## GitHub Snapshot
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DavisKiprotich&show_icons=true&theme=transparent&hide_border=true&title_color=f2b53d&icon_color=f2b53d&text_color=cbd5e1" alt="GitHub stats for DavisKiprotich" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisKiprotich&layout=compact&theme=transparent&hide_border=true&title_color=f2b53d&text_color=cbd5e1" alt="Top languages used by DavisKiprotich" />
-</p>
 
 ## Let's Build Something Practical
 
